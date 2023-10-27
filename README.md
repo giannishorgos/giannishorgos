@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>👯 I'm a Junior Software Engineer @ ACTA Ltd<br>🌱 I’m working on a startup business, ORANA (orana.gr)
+🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>👯 I'm a Software Engineer @ ACTA Ltd<br>🌱 I’m working on a startup business, ORANA (orana.gr)
 
 
 ## 🌐 Socials:
