@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>👯 I'm a Software Engineer @ ACTA Ltd<br>🌱 I’m currenlty learning Azure Cloud Services and Svelte !
 
+### "You can't know everything, but you should convince yourself that you can know" - John Carmack
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ioannis-s-horgos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13791379) 
@@ -10,8 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giannishorgos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Favorite Quote
-# "If you can't beat fear... Do it scared"
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=giannishorgos&icon=8&color=0)](https://visitcount.itsvg.in)
