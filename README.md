@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>👯 I'm a Software Engineer @ ACTA Ltd<br>🌱 I’m currenlty learning Azure Cloud Services and Svelte !
+🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>🧑‍💻I'm a Software Engineer @ ACTA Ltd<br>🌱 I’m currenlty learning Azure Cloud Services !
 
 ### "You can't know everything, but you should convince yourself that you can know everything" - John Carmack
 
+[![Visit my website to see my projects](ioannishorgos.gr)]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ioannis-s-horgos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13791379) 
 
