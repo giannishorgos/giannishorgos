@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>🧑‍💻I'm a Software Engineer @ ACTA Ltd<br>🌱 I’m currenlty learning Azure Cloud Services !
+🔭 I'm studying Electrical and Computer Engineering @ AUTh<br>🧑‍💻I'm a FullStack Software Engineer @ fromScratch<br>🌱 I’m currenlty mastering Angular and learning .NET !
 
 ### "You can't know everything, but you should convince yourself that you can know everything" - John Carmack
 
